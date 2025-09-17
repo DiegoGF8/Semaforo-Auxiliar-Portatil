@@ -8,10 +8,10 @@ La placa principal es el núcleo del sistema: integra conversión 12 V → 5 V, 
 actuadores a 12 V (sirena y baliza/LED estroboscópico).
 
 ESTADO DEL PROYECTO
-- Dimensiones PCB: 85 mm × 80 mm, stack-up de 4 capas (L1 Señal / L2 GND / L3 Potencia / L4 Señal).
+- Dimensiones PCB: 85 mm × 80 mm, stack-up de 3 capas (L1 Señal / L2 Potencia  / L3 GND).
 - Objetivo de impedancia USB 2.0 (D+/D–): 90 Ω ± 15 %.
 - Componentes clave: LM2678S-5.0 (buck 12→5 V/5 A), L = 22 µH (LQH66SN220MD3L), MOSFET IRLML6344TRPBF,
-  diodos SS14 (40 V/1 A) para protección de cargas, TVS en bus de 12 V. Relés SRD-12VDC-SL-C poblables opcionalmente.
+  diodos SS14 (40 V/1 A) para protección de cargas, Relés SRD-12VDC-SL-C.
 
 ENLACES PRINCIPALES
 - Onshape : https://cad.onshape.com/documents/9514c50148bd30af94668b6e/w/10fd001a8c3af11061b3f61f/e/184a6b5370e97d5e23dc29c5?renderMode=0&uiState=68ca4ee6e96fa2d06b671376
