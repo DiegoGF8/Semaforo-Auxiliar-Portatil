@@ -18,22 +18,22 @@ ENLACES PRINCIPALES
 
 ESTRUCTURA DEL REPOSITORIO
 /pcb/
-  /capture/                → Archivos de esquemático (.opj, .dsn, libs)
-  /allegro/                → Archivos de PCB Editor (.brd, .dra, .psm, .pad)
-  /constraints/            → Reglas (Constraint Manager .dcf/.csv, pares diferenciales USB)
+  /capture/                 # Esquemáticos (.opj, .dsn, libs)
+  /allegro/                 # PCB Editor/Allegro (.brd, .dra, .psm, .pad)
+  /constraints/             # Constraint Manager .dcf/.csv (pares dif., clearances)
 /fabrication/
-  /gerbers/                → RS-274X por capa (GTL, GBL, GTS, GBS, GTO, GBO, GKO, etc.)
-  /nc_drill/               → Taladros (.drl) y tabla de taladros
-  /ipc_2581_odbpp/         → Opcional según fabricante
-  /step/                   → Export STEP 3D de la PCB
+  /gerbers/                 # RS-274X (GTL, GBL, GTS, GBS, GTO, GBO, GKO, etc.)
+  /nc_drill/                # Taladros (.drl) + tabla de taladros
+  /ipc_2581_odbpp/          # (Opcional) según el fabricante
+  /step/                    # Export STEP 3D de la PCB
 /docs/
-  /images/                 → Figuras del documento (ruteo, planos, DRC, 3D)
-  /budget/                 → Budget energético y anexos (PDF/CSV)
+  /images/                  # Figuras (ruteo, planos, DRC, 3D, diagrama de bloques)
+/budget/                    # Budget energético (PDF/CSV)
 /bom/
-  BOM_resumen.csv          → Resumen por componente (PN fabricante)
-  BOM_detallada_refdes.csv → BOM por RefDes (R/C/D/Q/U/J/K/L)
+  BOM_resumen.csv           # PN por componente (fabricante)
+  BOM_detallada_refdes.csv  # BOM por RefDes (R/C/D/Q/U/J/K/L)
 /links/
-  onshape.txt              → Enlace Onshape y versión/Workspace
-  referencias.txt          → Citas ISO 690 (documentos electrónicos)
+  onshape.txt               # Enlace Onshape y versión/Workspace
+  referencias.txt           # Citas ISO 690 (documentos electrónicos)
 /releases/
-  v1.0_fabricacion/        → Paquete listo para enviar a fábrica (zip con /fabrication)
+  /v1.0_fabricacion/        # Paquete ZIP listo para fábrica (contiene /fabrication)
