@@ -16,24 +16,3 @@ ESTADO DEL PROYECTO
 ENLACES PRINCIPALES
 - Onshape : https://cad.onshape.com/documents/9514c50148bd30af94668b6e/w/10fd001a8c3af11061b3f61f/e/184a6b5370e97d5e23dc29c5?renderMode=0&uiState=68ca4ee6e96fa2d06b671376
 
-ESTRUCTURA DEL REPOSITORIO
-/pcb/
-  /capture/                 # Esquemáticos (.opj, .dsn, libs)
-  /allegro/                 # PCB Editor/Allegro (.brd, .dra, .psm, .pad)
-  /constraints/             # Constraint Manager .dcf/.csv (pares dif., clearances)
-/fabrication/
-  /gerbers/                 # RS-274X (GTL, GBL, GTS, GBS, GTO, GBO, GKO, etc.)
-  /nc_drill/                # Taladros (.drl) + tabla de taladros
-  /ipc_2581_odbpp/          # (Opcional) según el fabricante
-  /step/                    # Export STEP 3D de la PCB
-/docs/
-  /images/                  # Figuras (ruteo, planos, DRC, 3D, diagrama de bloques)
-/budget/                    # Budget energético (PDF/CSV)
-/bom/
-  BOM_resumen.csv           # PN por componente (fabricante)
-  BOM_detallada_refdes.csv  # BOM por RefDes (R/C/D/Q/U/J/K/L)
-/links/
-  onshape.txt               # Enlace Onshape y versión/Workspace
-  referencias.txt           # Citas ISO 690 (documentos electrónicos)
-/releases/
-  /v1.0_fabricacion/        # Paquete ZIP listo para fábrica (contiene /fabrication)
