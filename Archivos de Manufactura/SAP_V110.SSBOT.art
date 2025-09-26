@@ -1,0 +1,26 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  pcb_semaforo_aux.brd*
+G04 Film Name:    SAP_V110.SSBOT*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 24.1-S005*
+G04 Origin Date:  Fri Sep 26 00:04:36 2025*
+G04 *
+G04 Layer:  CAVITY/POWERPLANE_1*
+G04 Layer:  ANTI ETCH/POWERPLANE_1*
+G04 Layer:  USER PART NUMBER/SILKSCREEN_BOTTOM*
+G04 Layer:  TOLERANCE/SILKSCREEN_BOTTOM*
+G04 Layer:  REF DES/SILKSCREEN_BOTTOM*
+G04 Layer:  PACKAGE GEOMETRY/SILKSCREEN_BOTTOM*
+G04 Layer:  COMPONENT VALUE/SILKSCREEN_BOTTOM*
+G04 Layer:  BOARD GEOMETRY/SILKSCREEN_BOTTOM*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.1000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+M02*
