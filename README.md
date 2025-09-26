@@ -14,5 +14,5 @@ ESTADO DEL PROYECTO
   diodos SS14 (40 V/1 A) para protección de cargas, Relés SRD-12VDC-SL-C.
 
 ENLACES PRINCIPALES
-- Onshape : https://cad.onshape.com/documents/9514c50148bd30af94668b6e/w/10fd001a8c3af11061b3f61f/e/184a6b5370e97d5e23dc29c5?renderMode=0&uiState=68ca4ee6e96fa2d06b671376
+- Onshape : https://cad.onshape.com/documents/21fef1b3eacda39c10852529/w/79fc7292a46ee710a65da7c9/e/ed5080d8918c1aaba1ee2e94?renderMode=0&uiState=68d63b17d7190df0bb4cd378
 
