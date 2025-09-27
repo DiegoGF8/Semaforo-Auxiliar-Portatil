@@ -1,5 +1,5 @@
 # Semaforo-Auxiliar-Portatil
-PROYECTO: Sistema de Semáforo Auxiliar Portátil (PCB + Ensamble 3D)
+PROYECTO: Diseño de Sistema de Semáforo Auxiliar Portátil (PCB + Ensamble 3D)
 
 ## Descripción
 Este repositorio reúne **las salidas de fabricación** necesarias para producir la PCB del semáforo auxiliar portátil.
