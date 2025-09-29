@@ -2,7 +2,7 @@
 **PROYECTO:** Sistema de Semáforo Auxiliar Portátil (PCB + Ensamble 3D)
 
 ## Descripción
-Este repositorio contiene el diseño electrónico (OrCAD Capture CIS y OrCAD PCB Editor/Allegro), el ensamble mecánico 3D y las **salidas de fabricación** (Gerbers, taladros y pick & place) del sistema de semáforo auxiliar portátil.
+Este repositorio contiene el diseño electrónico (OrCAD Capture CIS y OrCAD PCB Editor/Allegro), el ensamble mecánico de la PCB en 3D y las **salidas de fabricación** (Gerbers, taladros y pick & place) del sistema de semáforo auxiliar portátil.
 
 
 - **Link directo al elemento PCB:** <https://cad.onshape.com/documents/21fef1b3eacda39c10852529/w/79fc7292a46ee710a65da7c9/e/ed5080d8918c1aaba1ee2e94>
