@@ -48,6 +48,5 @@ Carpeta: [`Archivos de Manufactura/`](./Archivos%20de%20Manufactura/)
 ---
 
 ## Notas
-- Colocar el fusible principal y la protección de entrada lo más cerca posible del borne positivo de la batería.
-- Para visualizar el ensamble, usa el enlace directo a Onshape indicado arriba.
+- Para visualizar el ensamble 3D de la PCB, usa el enlace directo a Onshape indicado arriba.
 
