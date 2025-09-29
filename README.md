@@ -2,7 +2,10 @@
 **PROYECTO:** Sistema de Semáforo Auxiliar Portátil (PCB + Ensamble 3D)
 
 ## Descripción
-Este repositorio contiene el diseño electrónico (OrCAD Capture CIS y OrCAD PCB Editor/Allegro), el ensamble mecánico 3D (Onshape) y las **salidas de fabricación** (Gerbers, taladros y pick & place) del sistema de semáforo auxiliar portátil.
+Este repositorio contiene el diseño electrónico (OrCAD Capture CIS y OrCAD PCB Editor/Allegro), el ensamble mecánico 3D y las **salidas de fabricación** (Gerbers, taladros y pick & place) del sistema de semáforo auxiliar portátil.
+
+- **Ensamble 3D (Onshape):** [Abrir modelo](https://cad.onshape.com/documents/21fef1b3eacda39c10852529/w/79fc7292a46ee710a65da7c9/e/ed5080d8918c1aaba1ee2e94?renderMode=0&uiState=68d9e025dbb0b4eb2beb179f)  
+  *Nota:* si no abre desde GitHub, copia y pega la URL en tu navegador o solicita acceso en Onshape.
 
 **Nota:** El **BOM** y el **archivo de presupuesto** están en la carpeta **`Archivos de Manufactura/`**.
 
@@ -36,8 +39,15 @@ Carpeta: [`Archivos de Manufactura/`](./Archivos%20de%20Manufactura/)
 
 ---
 
+## Archivos de diseño PCB (raíz del repositorio)
+- [PCB_SEMAFORO_AUX.DSN](./PCB_SEMAFORO_AUX.DSN) — proyecto OrCAD Capture.
+- [pcb_semaforo_aux.brd](./pcb_semaforo_aux.brd) — layout PCB (Allegro/OrCAD PCB Editor).
+- [budget_energetico_final (3).pdf](./budget_energetico_final%20%283%29.pdf)
+- [diagrama de bloques (2).png](./diagrama%20de%20bloques%20%282%29.png)
+
+---
+
 ## Notas
-- Coloca el fusible principal y la protección de entrada lo más cerca posible del borne positivo de la batería.
-- El ensamble 3D de la PCB está disponible en Onshape ** [Abrir modelo](https://cad.onshape.com/documents/21fef1b3eacda39c10852529/w/79fc7292a46ee710a65da7c9/e/ed5080d8918c1aaba1ee2e94?renderMode=0&uiState=68d9e025dbb0b4eb2beb179f)
- 
+- Colocar el fusible principal y la protección de entrada lo más cerca posible del borne positivo de la batería.
+- Para visualizar el ensamble, usa el enlace directo a Onshape indicado arriba.
 
