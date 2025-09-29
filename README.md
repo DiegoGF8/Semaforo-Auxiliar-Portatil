@@ -40,7 +40,7 @@ Carpeta: [`Archivos de Manufactura/`](./Archivos%20de%20Manufactura/)
 
 ---
 
-## Archivos de diseño PCB (raíz del repositorio)
+## Archivos de diseño PCB
 - [PCB_SEMAFORO_AUX.DSN](./PCB_SEMAFORO_AUX.DSN) — proyecto OrCAD Capture.
 - [pcb_semaforo_aux.brd](./pcb_semaforo_aux.brd) — layout PCB (Allegro/OrCAD PCB Editor).
 - [budget_energetico_final (3).pdf](./budget_energetico_final%20%283%29.pdf)
